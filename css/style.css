@@ -1,0 +1,18 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.headings{
+    color: #fcfffb;
+    background-color: rgb(40, 2, 75);
+    padding: 29px;
+}
+.h2{
+    color: rgb(4, 82, 39);
+    background-color: #fcfffb;
+}
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #03176e;
+    background-color: rgb(252, 248, 255);
+}
