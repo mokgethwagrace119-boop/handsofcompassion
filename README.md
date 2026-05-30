@@ -1,45 +1,5 @@
 # handsofcompassion
-body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-
-}
-
-.headings{
-    text-align: center;
-    color: #fcfffb;
-    background-color: rgb(40, 2, 75);
-    padding: 15px;
-}
-.h2{
-    color: rgb(4, 82, 39);
-    background-color: #fcfffb;
-    text-underline-position: below;
-    text-decoration: underline;
-
-}
-h3{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #03176e;
-    background-color: rgb(252, 248, 255);
-    text-decoration: underline;
-}
-.navbar ul{
-    list-style-type: none;
-    background-color: rgb(255, 255, 255); 
-    padding:  45px;
-    margin: 49px
-    
-    
-}
-
-.navbar :hover{
-color: #fff7f7;
-    background-color: rgb(107, 7, 74);
-font-size: x-large;
-font-style: oblique;
-font-weight: 200;
-
-}
+https://github.com/user-attachments/files/28429639/style.css) [
 
     
 
