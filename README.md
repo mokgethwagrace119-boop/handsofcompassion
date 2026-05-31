@@ -32,5 +32,17 @@ https://github.com/user-attachments/files/28429639/style.css) [
 <img width="720" height="1268" alt="Image" src="https://github.com/user-attachments/assets/7c8c437d-5c1d-4d1f-9740-e42388863db9" />
 
 c    
+3-4c9b-8<img width="720" height="1366" alt="Image" src="https://github.com/user-attachments/assets/ece97902-cf37-4ab2-9188-d355f8c2ee9e" />
 
+<img width="720" height="1366" alt="Image" src="https://github.com/user-attachments/assets/bc07fc5a-65b7-45c9-a754-9972fd32e82f" />
+
+<img width="720" height="1366" alt="Image" src="https://github.com/user-attachments/assets/d60ed1ce-4f31-4123-9077-09fcb1f01fdc" />
+
+<img width="720" height="1366" alt="Image" src="https://github.com/user-attachments/assets/10be521c-7874-4a23-bcac-5e80c74ed5a1" />
+
+<img width="720" height="1366" alt="Image" src="https://github.com/user-attachments/assets/e248228d-ee29-47a5-9416-9ec04f8f6626" />
+
+<img width="720" height="1600" alt="Image" src="https://github.com/user-attachments/assets/1a201153-4ad5-4ba2-8718-d6ca797a8cd4" />
+
+<img width="720" height="1600" alt="Image" src="https://github.com/user-attachments/assets/dd6e4571-bddd67-2ea2644c76a3" />
 
