@@ -46,3 +46,233 @@ c
 
 <img width="720" height="1600" alt="Image" src="https://github.com/user-attachments/assets/dd6e4571-bddd67-2ea2644c76a3" />
 
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.headings{
+    text-align: center;
+    color: #fcfffb;
+    background-color: rgb(40, 2, 75);
+    padding: 15px;
+}
+.h2{
+    color: rgb(4, 82, 39);
+    background-color: #fcfffb;
+    text-underline-position: below;
+    text-decoration: underline;
+font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #000000;
+    background-color: rgb(252, 248, 255);
+    text-decoration: underline;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(255, 255, 255); 
+    padding:  45px;
+    margin: 49px
+    
+    
+}
+
+
+.navbar :hover{
+color: #fff7f7;
+    background-color: rgb(107, 7, 74);
+font-size: x-large;
+font-style: oblique;
+font-weight: 200;
+
+}
+
+    
+
+.contact-form-section {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  background: #f9f9f9;
+  border-radius: 10px;
+}
+
+.contact-form-section h2 {
+  text-align: center;
+  color: #2c7a4b;
+  margin-bottom: 10px;
+}
+
+.contact-form-section p {
+  text-align: center;
+  color: #000000;
+}
+
+#contactForm {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 20px;
+}
+
+#contactForm label {
+  font-weight: bold;
+  color: #333;
+}
+
+#contactForm input,
+#contactForm textarea {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+#contactForm button {
+  padding: 12px;
+  background: #006108;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+#contactForm button:hover {
+  background: #580081;
+}
+
+#formMessage {
+  margin-top: 15px;
+  font-weight: bold;
+  text-align: center;}
+  .volunteer-form-section {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  background: #f9f9f9;
+  border-radius: 10px;
+}
+
+.volunteer-form-section h2 {
+  text-align: center;
+  margin-bottom: 10px;
+  color: #045a0b;
+}
+
+.volunteer-form-section p {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #300558;
+}
+
+.volunteer-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.volunteer-form label {
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #013619;
+}
+
+.volunteer-form input,
+.volunteer-form select,
+.volunteer-form textarea {
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+.volunteer-form button {
+  padding: 12px;
+  background: #2c7a4b;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.volunteer-form button:hover {
+  background: #25663f;
+}
+/* Navbar */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #2c7a4b;
+  padding: 15px 25px;
+  color: white;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.logo {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links li a {
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+  transition: 0.3s;
+}
+
+.nav-links li a:hover {
+  color: #d9f7e3;
+}
+
+/* Hamburger button */
+.menu-toggle {
+  display: none;
+  font-size: 28px;
+  background: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .menu-toggle {
+    display: block;
+  }
+
+  .nav-links {
+    display: none;
+    flex-direction: column;
+    background: #2c7a4b;
+    position: absolute;
+    top: 70px;
+    right: 0;
+    width: 220px;
+    padding: 20px;
+    border-radius: 0 0 0 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+  }
+
+  .nav-links.show {
+    display: flex;
+  }
+
+  .nav-links li {
+    margin-bottom: 12px;
+  }
+}
