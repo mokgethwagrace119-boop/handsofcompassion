@@ -227,4 +227,28 @@ font-weight: 200;
   .nav-links li {
     margin-bottom: 12px;
   }
+  .ngo-map-section {
+  max-width: 1000px;
+  margin: 50px auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.ngo-map-section h2 {
+  color: #2c7a4b;
+  margin-bottom: 10px;
+}
+
+.ngo-map-section p {
+  color: #555;
+  margin-bottom: 20px;
+}
+
+#ngoMap {
+  width: 100%;
+  height: 450px;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
 }
