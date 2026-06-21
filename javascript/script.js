@@ -1,3 +1,12 @@
 function NM(){
-    document.getElementById('demo').innerHTML="hello";
+    document.getElementById('demo').innerHTML="hello"
+}
+function NM(){
+    document.getElementById('demo').innerHTML="hello"
+}
+function NM(){
+    document.getElementById('demo').innerHTML="hello"
+}
+function NM(){
+    document.getElementById('demo').innerHTML="hello"
 }
