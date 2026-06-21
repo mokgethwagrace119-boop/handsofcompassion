@@ -14,11 +14,11 @@ body {
     background-color: #fcfffb;
     text-underline-position: below;
     text-decoration: underline;
-
+font-family: 'Times New Roman', Times, serif;
 }
 h3{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #03176e;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #000000;
     background-color: rgb(252, 248, 255);
     text-decoration: underline;
 }
